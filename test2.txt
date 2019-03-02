@@ -1,2 +1,2 @@
-test2 v0.0.7
-dlv update, testing .git-credentials on linux
+test2 v0.0.8
+in previou version .7, credential was johndlv but email info was not consistently from johndelavega
